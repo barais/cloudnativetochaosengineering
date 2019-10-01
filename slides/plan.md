@@ -18,7 +18,7 @@ style="position:absolute; right:-100px; top:260px;">
 
 - Heterogeneous and Distributed Services
    - Heterogeneous: The infrastructure on which the service runs is composed of a set of different nodes and networks
-      - From microcontroller based sensors and devices to cloud.
+      - From microcontroller based sensors and devices to cloud
    - Distributed: The implementation of the services is composed of a set of independent processes communicating asynchronously
       - Truly distributed services implementation is required in order to provide useful and reliable services which take advantage of the infrastructure
 
